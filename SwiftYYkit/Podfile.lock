@@ -1,0 +1,17 @@
+PODS:
+  - JVFloatLabeledTextField (1.2.1)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - JVFloatLabeledTextField
+  - YYKit
+
+SPEC CHECKSUMS:
+  JVFloatLabeledTextField: cfc44e3c4d493b2ed92ede8035e8e89c2912ba64
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: ae04f036463ae1b3af28e290a0f477492ea0570d
+
+COCOAPODS: 1.2.1
